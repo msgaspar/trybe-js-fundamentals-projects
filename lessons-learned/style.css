@@ -1,0 +1,169 @@
+body {
+
+  --cinza-claro: rgb(253, 251, 251);
+
+  --roxo-escuro-texto: rgb(41, 34, 63);
+
+  --roxo-cor-de-fundo: rgb(61, 19, 122);
+
+  --verde: rgb(3, 107, 82);
+  font-family: Source Sans Pro, sans-serif;
+  max-width: 900px;
+  margin: 0 auto;
+  background-color: var(--cinza-claro);
+  color: var(--roxo-escuro-texto);
+}
+
+.ancora {
+  display: block;
+  position: relative;
+  top: -250px;
+  visibility: hidden;
+}
+
+#cabecalho {
+  position: fixed;
+  top: 0;
+  width: 900px;
+  background-color: var(--cinza-claro);
+  color: var(--verde);
+  text-align: center;
+}
+
+#titulo {
+  display: inline-block;
+  font-size: 24px;
+}
+
+main {
+  margin-top: 70px;
+}
+
+#intro {
+  width: 600px;
+  margin: 100px auto 30px;
+  background-color: var(--roxo-cor-de-fundo);
+  padding: 35px 60px;
+  border-radius: 15px;
+}
+
+#minha_foto {
+  display: inline-block;
+  vertical-align: top;
+  width: 150px;
+  border: 3px solid var(--cinza-claro);
+  border-radius: 50%;
+  margin: 0 30px 0 0;
+}
+
+#texto-intro {
+  font-size: 16px;
+  color: var(--cinza-claro);
+  display: inline-block;
+  vertical-align: top;
+  line-height: 1.35;
+  width: 400px;
+  margin: 14px 0 0;
+  text-align: justify;
+}
+
+#primeira-parte {
+  display: block;
+  width: 900px;
+  text-align: center;
+}
+
+article h2 {
+  text-align: left;
+  color: var(--roxo-escuro-texto);
+  font-size: 32px;
+  max-width: 400px;
+}
+
+article p {
+  line-height: 1.5;
+  text-align: justify;
+}
+
+.lado-esquerdo {
+  display: inline-block;
+  vertical-align: top;
+  width: 360px;
+  margin-right: 40px;
+}
+
+.lado-direito {
+  display: inline-block;
+  vertical-align: top;
+  width: 360px;
+  margin: 0;
+  overflow: hidden;
+  text-align: left;
+}
+
+.lado-direito h3 {
+  color: var(--roxo-escuro-texto);
+  font-size: 20px;
+  margin: 30px 0 23px 25px;
+}
+
+.lado-direito h3:first-of-type {
+  margin-top: 26px;
+}
+
+.lado-direito li {
+  padding-left: 7px;
+  line-height: 1.5;
+}
+
+#blocos_fundamentos {
+  margin: 60px 0;
+}
+
+#blocos_fundamentos h3 {
+  font-size: 20px;
+  color: var(--roxo-escuro-texto);
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+table , tr , td {
+  border-collapse: collapse;
+  border-radius: 15px;
+  border-spacing: 0;
+  margin: 0 auto;
+  border: 1px solid var(--roxo-escuro-texto);
+}
+
+td {
+  padding: 5px 15px;
+}
+
+aside {
+  max-width: 600px;
+  margin: 80px auto;
+}
+
+aside p {
+  text-align: justify;
+}
+
+nav {
+  max-width: fit-content;
+  margin: 40px auto 100px;
+}
+
+nav a {
+  font-size: 18px;
+  font-weight: 600;
+  margin: 0 10px;
+  color: var(--verde);
+}
+
+#rodape {
+  text-align: center;
+  font-weight: 600;
+  letter-spacing: -0.5px;
+  margin: 15px 0;
+  color: var(--roxo-escuro-texto);
+}
