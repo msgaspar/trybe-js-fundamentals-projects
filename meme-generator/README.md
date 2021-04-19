@@ -1,6 +1,6 @@
 # Projeto Meme Generator
 
-Projeto realizado no curso de Desenvolvimento Web da Trybe como parte do Bloco 05 - JavaScript: DOM, Eventos e Web Storage, dentro do Módulo 1 - Fundamentos do Desenvolvimento Web.
+Projeto realizado no curso de Desenvolvimento Web da Trybe como parte do **Bloco 05 - JavaScript: DOM, Eventos e Web Storage**, dentro do Módulo 1 - Fundamentos do Desenvolvimento Web.
 
 > [Veja como ficou](https://msgaspar.github.io/trybe-projects/meme-generator/)
 
