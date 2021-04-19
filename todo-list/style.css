@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+}
+
+#lista-tarefas {
+  min-height: 200px;
+  width: 400px;
+}
+
+.selected {
+  background-color: grey;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+li {
+  padding: 3px;
+  user-select: none;
+}
