@@ -7,6 +7,6 @@ Repositório que contém todos os projetos que desenvolvi como aluno da turma 11
 - [Playground Functions](./playground-functions)
 - [Arte Com Pixels](./pixels-art)
 - [Lista de Tarefas](./todo-list)
-- Meme Generator
+- [Meme Generator](./meme-generator)
 - Adivinhe a Cor
 - Carta Misteriosa
