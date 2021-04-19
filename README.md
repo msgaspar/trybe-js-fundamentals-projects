@@ -3,7 +3,7 @@ Repositório que contém todos os projetos que desenvolvi como aluno da turma 11
 
 ### Módulo 1 - Fundamentos de Desenvolvimento Web
 
-- Lessons Learned
+- [Lessons Learned](./lessons-learned)
 - Playground Functions
 - Arte Com Pixels
 - Lista de Tarefas
