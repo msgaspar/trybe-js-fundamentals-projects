@@ -8,5 +8,5 @@ Repositório que contém todos os projetos que desenvolvi como aluno da turma 11
 - [Arte Com Pixels](./pixels-art)
 - [Lista de Tarefas](./todo-list)
 - [Meme Generator](./meme-generator)
-- Adivinhe a Cor
+- [Adivinhe a Cor](./color-guess)
 - Carta Misteriosa
