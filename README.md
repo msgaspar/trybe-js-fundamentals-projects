@@ -9,4 +9,4 @@ Repositório que contém todos os projetos que desenvolvi como aluno da turma 11
 - [Lista de Tarefas](./todo-list)
 - [Meme Generator](./meme-generator)
 - [Adivinhe a Cor](./color-guess)
-- Carta Misteriosa
+- [Carta Misteriosa](./mistery-letter)
