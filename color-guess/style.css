@@ -1,0 +1,33 @@
+body {
+  font-family: sans-serif;
+}
+
+#container {
+  width: 300px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+#rgb-color {
+  font-size: 32px;
+  background-color: rgb(250, 247, 231);
+  margin: 40px auto;
+  padding: 15px;
+  border-radius: 10px;
+  width: fit-content;
+}
+
+#score {
+  font-weight: bold;
+  margin: 20px 0;
+}
+
+.ball {
+  display: inline-block;
+  margin: 0 2px;
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  border: 2px solid black;
+  cursor: pointer;
+}
