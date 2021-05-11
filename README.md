@@ -10,3 +10,6 @@ Repositório que contém todos os projetos que desenvolvi como aluno da turma 11
 - [Meme Generator](./meme-generator)
 - [Adivinhe a Cor](./color-guess)
 - [Carta Misteriosa](./mistery-letter)
+- [Trybewarts](./trybewarts)
+- [JS Unit Tests](./js-unit-tests)
+- [Zoo Functions](./zoo-functions)
