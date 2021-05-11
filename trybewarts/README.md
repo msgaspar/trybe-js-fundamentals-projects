@@ -2,6 +2,8 @@
 
 Projeto realizado no curso de Desenvolvimento Web da Trybe como parte do **Bloco 06 - HTML e CSS - Forms, Flexbox e Responsividade**, dentro do Módulo 1 - Fundamentos do Desenvolvimento Web.
 
+> [Veja como ficou](https://msgaspar.github.io/trybe-projects/trybewarts/)
+
 ## Habilidades Trabalhadas
 
 - Criação de formulários HTML
