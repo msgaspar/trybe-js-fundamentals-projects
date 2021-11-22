@@ -1,5 +1,5 @@
-# Trybe Projects
-Repositório que contém todos os projetos que desenvolvi como aluno da turma 11 do curso de Desenvolvimento Web na **[Trybe](https://www.betrybe.com/)**.
+# Trybe JS Fundamentals Projects
+Repositório que contém todos os projetos que desenvolvi durante o primeiro módulo do curso de Desenvolvimento Web na **[Trybe](https://www.betrybe.com/)**.
 
 ### Módulo 1 - Fundamentos de Desenvolvimento Web
 
